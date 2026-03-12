@@ -1,2 +1,10 @@
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
 build/
-Java_Fundamentals\Basic_Syntax\Ejercicio 5\build
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
