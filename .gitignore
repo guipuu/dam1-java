@@ -1,6 +1,6 @@
 
 ### NetBeans ###
-**/nbproject
+nbproject/
 build/
 nbbuild/
 dist/
