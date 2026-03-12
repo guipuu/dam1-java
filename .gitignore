@@ -1,6 +1,34 @@
 
 ### NetBeans ###
-**/nbproject
+Java_Fundamentals/*/*/nbproject
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# --- Archivos compilados de Java ---
+*.class
+*.log
+*.ctxt
+
+# --- Empaquetados ---
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# --- Archivos de error de la JVM ---
+hs_err_pid*
+replay_pid*
+
+# --- ### NetBeans ### ---
+# Ignorar SOLO la configuración privada, no todo el proyecto
+nbproject/private/
 build/
 nbbuild/
 dist/
